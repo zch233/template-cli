@@ -1,10 +1,9 @@
 {
   "name": "gupo-template",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "bin": {
     "gupo-template": "index.sh"
   },
-  "main": "index.sh",
   "repository": "git@github.com:zch233/template-cli.git",
   "author": "zhangchao <529743595@qq.com>",
   "license": "MIT",
